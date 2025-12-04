@@ -1,4 +1,3 @@
 
-TODO: Az employee komponens megvalósítása
 TODO: A projekt szolgáltatás megvalósítása
 TODO: A project komponens megvalósítása
